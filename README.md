@@ -31,7 +31,7 @@
 #### 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/news-app.git
+    git clone https://github.com/LORD-JINXXX/Daily-News.git
     cd news-app
     ```
 
