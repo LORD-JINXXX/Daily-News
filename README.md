@@ -32,7 +32,7 @@
 
     ```bash
     git clone https://github.com/LORD-JINXXX/Daily-News.git
-    cd news-app
+    cd daily-news
     ```
 
 #### 2. Install the dependencies:
